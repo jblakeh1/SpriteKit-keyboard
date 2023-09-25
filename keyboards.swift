@@ -23,10 +23,7 @@ extension GameScene {
 			
 			// left arrow
 			if keyCode == 123 {
-				if controlPanel.alpha == 0 {
-					stopElevators()
-					animateFloorRotation(direction: 0)
-				}
+                //do stuff
 			}
 			
 			// right arrow
